@@ -6,7 +6,7 @@ const socialLinks = [
   { name: "Instagram", url: "https://www.instagram.com/marc_navy?igsh=MXhvenpzYjJ2a3BkYw==", icon: Instagram },
   { name: "LinkedIn", url: "https://www.linkedin.com/in/marc-ranielle-rabanillo-8a39ab247/", icon: Linkedin },
   { name: "Gmail", url: "mailto:marcnavy.web@gmail.com", icon: Mail },
-  { name: "Website", url: "marcnavy.vercel.web", icon: Globe },
+  { name: "Website", url: "marcranielle.vercel.web", icon: Globe },
 ];
 
 const Footer = () => {
@@ -19,7 +19,8 @@ const Footer = () => {
           <div>
             <h4 className="text-lg font-semibold text-white mb-4">About MarcNavy</h4>
             <p className="text-sm leading-relaxed opacity-80">
-              MarcNavy QR Generator is a fast, free, and reliable QR Code Generator designed for simplicity and modern data sharing. Created with a balance of creativity and technical precision.
+              MarcNavy is a web projects I created to gain practical experience and improve my skills in developing applications.
+               It has helped me learn how to build user-friendly interfaces, implement interactive features, and apply best coding practices.
             </p>
             <p className="text-xs mt-6 opacity-50">&copy; {currentYear} MarcNavy. All rights reserved.</p>
           </div>
